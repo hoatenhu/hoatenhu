@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hoatenhu
-- 👀 I’m interested in coding, listening audio book, traveling
-- 🌱 I’m coding with c/c++, python, html, javascript, ..
+- 👀 I’m interested in building some interesting things ..
+- 🌱 I’m coding with javascript, typescript, python, c/c++ ..
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
